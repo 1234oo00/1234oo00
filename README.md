@@ -1,4 +1,6 @@
-## Hi there 👋
+# Jin Wenhui
+
+Email: 1234oo00@sjtu.edu.cn
 
 <!--
 **1234oo00/1234oo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
